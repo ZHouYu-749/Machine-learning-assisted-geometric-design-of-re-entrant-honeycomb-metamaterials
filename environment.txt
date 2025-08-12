@@ -1,0 +1,143 @@
+# packages in environment at E:\anaconda\envs\pyxx:
+#
+# Name                    Version                   Build  Channel
+absl-py                   2.1.0                     <pip>
+alembic                   1.14.1                    <pip>
+apricot-select            0.6.1                     <pip>
+asttokens                 3.0.0                     <pip>
+astunparse                1.6.3                     <pip>
+attrs                     24.3.0                    <pip>
+ca-certificates           2024.3.11            haa95532_0    defaults
+certifi                   2024.12.14                <pip>
+cffi                      1.17.1                    <pip>
+chardet                   5.2.0                     <pip>
+charset-normalizer        3.4.1                     <pip>
+clarabel                  0.10.0                    <pip>
+cloudpickle               3.1.0                     <pip>
+colorama                  0.4.6                     <pip>
+colorlog                  6.9.0                     <pip>
+contourpy                 1.2.1                     <pip>
+cvxpy                     1.6.3                     <pip>
+cycler                    0.12.1                    <pip>
+decorator                 5.1.1                     <pip>
+doppelganger              0.1.4                     <pip>
+enum34                    1.1.10                    <pip>
+et-xmlfile                1.1.0                     <pip>
+exceptiongroup            1.2.2                     <pip>
+executing                 2.1.0                     <pip>
+ezdxf                     1.3.4                     <pip>
+filelock                  3.13.1                    <pip>
+flatbuffers               25.2.10                   <pip>
+fonttools                 4.51.0                    <pip>
+fsspec                    2024.6.1                  <pip>
+future                    1.0.0                     <pip>
+gast                      0.6.0                     <pip>
+google-pasta              0.2.0                     <pip>
+greenlet                  3.1.1                     <pip>
+grpcio                    1.70.0                    <pip>
+h11                       0.14.0                    <pip>
+h5py                      3.13.0                    <pip>
+idna                      3.10                      <pip>
+importlib_metadata        8.6.1                     <pip>
+importlib_resources       6.4.0                     <pip>
+ipython                   8.18.1                    <pip>
+jedi                      0.19.2                    <pip>
+Jinja2                    3.1.4                     <pip>
+joblib                    1.4.2                     <pip>
+keras                     3.8.0                     <pip>
+kiwisolver                1.4.5                     <pip>
+libclang                  18.1.1                    <pip>
+lightgbm                  4.5.0                     <pip>
+llvmlite                  0.43.0                    <pip>
+Mako                      1.3.9                     <pip>
+Markdown                  3.7                       <pip>
+markdown-it-py            3.0.0                     <pip>
+MarkupSafe                2.1.5                     <pip>
+matplotlib                3.9.0                     <pip>
+matplotlib-inline         0.1.7                     <pip>
+mdurl                     0.1.2                     <pip>
+ml-dtypes                 0.4.1                     <pip>
+mpmath                    1.3.0                     <pip>
+namex                     0.0.8                     <pip>
+narwhals                  1.29.0                    <pip>
+networkx                  3.2.1                     <pip>
+nose                      1.3.7                     <pip>
+numba                     0.60.0                    <pip>
+numpy                     1.26.4                    <pip>
+openpyxl                  3.1.5                     <pip>
+openssl                   3.0.13               h2bbff1b_1    defaults
+opt_einsum                3.4.0                     <pip>
+optree                    0.14.1                    <pip>
+optuna                    4.2.1                     <pip>
+osqp                      0.6.7.post3               <pip>
+outcome                   1.3.0.post0               <pip>
+packaging                 24.0                      <pip>
+pandas                    2.2.2                     <pip>
+parso                     0.8.4                     <pip>
+pillow                    10.3.0                    <pip>
+pip                       24.0             py39haa95532_0    defaults
+plotly                    6.0.0                     <pip>
+pomegranate               0.14.3                    <pip>
+powerlaw                  1.5                       <pip>
+prompt_toolkit            3.0.48                    <pip>
+protobuf                  5.29.3                    <pip>
+psycopg2                  2.9.10                    <pip>
+pure_eval                 0.2.3                     <pip>
+pyaml                     25.1.0                    <pip>
+pycparser                 2.22                      <pip>
+Pygments                  2.19.1                    <pip>
+pyparsing                 3.1.2                     <pip>
+PySocks                   1.7.1                     <pip>
+python                    3.9.19               h1aa4202_1    defaults
+python-dateutil           2.9.0.post0               <pip>
+pytz                      2024.1                    <pip>
+PyYAML                    6.0.2                     <pip>
+qdldl                     0.1.7.post5               <pip>
+requests                  2.32.3                    <pip>
+rich                      13.9.4                    <pip>
+scikit-learn              1.6.1                     <pip>
+scikit-optimize           0.10.2                    <pip>
+scipy                     1.13.0                    <pip>
+scs                       3.2.7.post2               <pip>
+seaborn                   0.13.2                    <pip>
+selenium                  4.27.1                    <pip>
+setuptools                69.5.1           py39haa95532_0    defaults
+shap                      0.46.0                    <pip>
+shapely                   2.0.7                     <pip>
+SISSOkit                  0.2.2                     <pip>
+six                       1.16.0                    <pip>
+slicer                    0.0.8                     <pip>
+sniffio                   1.3.1                     <pip>
+sortedcontainers          2.4.0                     <pip>
+SQLAlchemy                2.0.38                    <pip>
+sqlite                    3.45.3               h2bbff1b_0    defaults
+stack-data                0.6.3                     <pip>
+sympy                     1.13.1                    <pip>
+tensorboard               2.18.0                    <pip>
+tensorboard-data-server   0.7.2                     <pip>
+tensorflow                2.18.0                    <pip>
+tensorflow-io-gcs-filesystem 0.31.0                    <pip>
+tensorflow_intel          2.18.0                    <pip>
+termcolor                 2.5.0                     <pip>
+threadpoolctl             3.5.0                     <pip>
+torch                     2.6.0+cu118               <pip>
+torchaudio                2.6.0+cu118               <pip>
+torchvision               0.21.0+cu118              <pip>
+tqdm                      4.67.1                    <pip>
+traitlets                 5.14.3                    <pip>
+trio                      0.28.0                    <pip>
+trio-websocket            0.11.1                    <pip>
+typing_extensions         4.12.2                    <pip>
+tzdata                    2024.1                    <pip>
+tzdata                    2024a                h04d1e81_0    defaults
+urllib3                   2.3.0                     <pip>
+vc                        14.2                 h21ff451_1    defaults
+vs2015_runtime            14.27.29016          h5e58377_2    defaults
+wcwidth                   0.2.13                    <pip>
+websocket-client          1.8.0                     <pip>
+Werkzeug                  3.1.3                     <pip>
+wheel                     0.43.0           py39haa95532_0    defaults
+wrapt                     1.17.2                    <pip>
+wsproto                   1.2.0                     <pip>
+xgboost                   2.1.3                     <pip>
+zipp                      3.21.0                    <pip>
